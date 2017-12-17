@@ -1,6 +1,6 @@
 public class main{
 
-public void test(){
+public static vod main(string [] args){
 
 }
 }
